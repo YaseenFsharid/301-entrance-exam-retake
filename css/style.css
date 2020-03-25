@@ -1,0 +1,44 @@
+header {
+    background-color: rgb(240, 76, 76);
+}
+#header{
+    color: #fff;
+    text-align: center;
+    font-size: 36px;
+    padding: 11px 0 11px 0;
+}
+form{
+    margin: 36px 1px 0 92px;
+}
+.labels{
+    font-size: 29px;
+}
+#order{
+    padding: 10px 142px 3px 3px;
+    margin-top: 5px;
+    border-radius: 6px;
+}
+#items{
+    padding: 10px 244px 5px 0px;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+#submitItem{
+    margin: 8px 0 0 142px;
+    padding: 12px 56px 12px 53px;
+    background-color: rgb(240, 76, 76);
+    font-size: 19px;
+    color: #fff;
+    border: none;
+}
+#table{
+    border: 1px solid lightgray;
+    margin: 71px 0px 0px 86px;
+}
+.tableheading{
+    text-align: center;
+    font-size: 23px;
+    border-right: 1px solid lightgray;
+    padding: 21px 30px 21px 29px;
+    font-weight: bold;
+}
